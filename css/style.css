@@ -1,0 +1,49 @@
+
+body{
+	font: 13px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+	background: #333;
+}
+h3,h4{
+	font: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.container{
+	background: #fff;
+}
+.header{
+	margin:30px 0 20px 0;
+}
+.header .logo{
+	background: url(../images/logo_en.gif) no-repeat;
+	height:110px;
+	padding:65px 0 0 380px;
+	font-size: 30px;
+	border-radius:3px;
+	border-bottom:1px solid #ddd;
+	color:#0F5F9A;
+	font-style: italic;
+}
+.group .cate h3{
+	height:30px;
+	line-height:30px;
+	border-bottom:1px solid #ccc;
+}
+.publication,.group,.home-contact{
+	border-radius:3px;
+	padding: 10px;
+	border:1px solid #ddd;
+}
+.publication .media{
+	border-bottom:1px solid #ccc;
+	padding-bottom: 5px;
+}
+.publication .media h4{
+	font-size: 13px;
+	height:20px;
+	line-height:20px;
+}
+.footer p{
+	height:40px;
+	line-height:40px;
+	border-radius:5px;
+	margin:10px 0 5px 0;
+}
